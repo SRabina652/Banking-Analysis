@@ -37,39 +37,39 @@ These new features were used to group and compare customers more effectively.
 
 4. Data Transformation:
 
-Converted several numerical columns into categorical variables (e.g.'BRId', 'GenderId','IAId','Location ID').
+  Converted several numerical columns into categorical variables (e.g.'BRId', 'GenderId','IAId','Location ID').
 
 5. Descriptive Statistics
 
-Computed summary statistics (min, max, median) for key numeric variables like income and lending.
+  Computed summary statistics (min, max, median) for key numeric variables like income and lending.
 
-Checked for missing or null values in newly created age bins.
+  Checked for missing or null values in newly created age bins.
 
 6. Univariate Analysis
 
-Count plots for categorical variables such as Income Band, Loyalty Classification, Nationality, Fee Structure, etc.
+  Count plots for categorical variables such as Income Band, Loyalty Classification, Nationality, Fee Structure, etc.
 
-Observed distribution patterns and identified dominant categories (e.g., majority in Low income band).
+  Observed distribution patterns and identified dominant categories (e.g., majority in Low income band).
 
 7. Bivariate Analysis
 
-Count plots segmented by Gender and Amount of Credit Cards to explore differences in customer profiles.
+  Count plots segmented by Gender and Amount of Credit Cards to explore differences in customer profiles.
 
-Analyzed how banking relationships and nationality vary across gender and credit card ownership.
+  Analyzed how banking relationships and nationality vary across gender and credit card ownership.
 
 8. Visualizing Lending and Income Patterns
 
-Bar chart showing median business lending amount by age range band.
+  Bar chart showing median business lending amount by age range band.
 
-Bar chart illustrating income range spread within each age group.
+  Bar chart illustrating income range spread within each age group.
 
 9. Correlation & Relationship Exploration (Visual)
 
-Explored relationships between income, savings, lending, and categorical customer features via grouped statistics and charts.
+  Explored relationships between income, savings, lending, and categorical customer features via grouped statistics and charts.
 
 10. Distribution Visualization
 
-Histograms and count plots for all major categorical variables to understand their frequency distributions.
+  Histograms and count plots for all major categorical variables to understand their frequency distributions.
 
 
 
@@ -77,7 +77,7 @@ Histograms and count plots for all major categorical variables to understand the
 The banking data has been visualized through an interactive Power BI dashboard with four key pages to provide actionable insights. These pages are designed for both executive overviews and deep dives into lending and deposit behaviors.
 
 1️. Home Page
-A high-level summary of the bank's customer base and overall financial metrics:
+  A high-level summary of the bank's customer base and overall financial metrics:
 
 KPIs Displayed:
 
@@ -90,7 +90,7 @@ KPIs Displayed:
 Total Deposits
 
 2️. Lending Analysis
-Detailed view of the bank’s lending products, with dynamic filtering options:
+  Detailed view of the bank’s lending products, with dynamic filtering options:
 
 Slicers:
 
@@ -115,7 +115,7 @@ Visualizations:
 - Bank Loans by Occupation
 
 3. Deposit Analysis
-Focuses on deposit products, savings behavior, and account balances:
+  Focuses on deposit products, savings behavior, and account balances:
 
 Slicers:
 - Gender
@@ -138,7 +138,7 @@ Visualizations:
 - Checking Deposits by Banking Relationship
 
 4️. Summary Page
-Combines lending and deposit insights for a holistic customer overview:
+  Combines lending and deposit insights for a holistic customer overview:
 
 Slicers:
 
