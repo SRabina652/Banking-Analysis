@@ -20,56 +20,56 @@ The goal is to:
 
 ### Python Analysis
 1. Data Upload:
-Uploaded the raw banking data into a MySQL database for structured storage and easy querying.
+      Uploaded the raw banking data into a MySQL database for structured storage and easy querying.
 
 2. Data Retrieval:
-Retrieved the dataset from MySQL into Python using appropriate SQL queries and connectors for further analysis.
+     Retrieved the dataset from MySQL into Python using appropriate SQL queries and connectors for further analysis.
 
 3. Feature Engineering:
 
-Created new variables such as:
+     Created new variables such as:
 
-Age Range (e.g.'17-26', '26-35', '35-43' etc.)
+     Age Range (e.g.'17-26', '26-35', '35-43' etc.)
 
-Income Bins (e.g., low, medium, high)
-
-These new features were used to group and compare customers more effectively.
+    Income Bins (e.g., low, medium, high)
+    
+    These new features were used to group and compare customers more effectively.
 
 4. Data Transformation:
 
-  Converted several numerical columns into categorical variables (e.g.'BRId', 'GenderId','IAId','Location ID').
+    Converted several numerical columns into categorical variables (e.g.'BRId', 'GenderId','IAId','Location ID').
 
 5. Descriptive Statistics
 
-  Computed summary statistics (min, max, median) for key numeric variables like income and lending.
-
-  Checked for missing or null values in newly created age bins.
+    Computed summary statistics (min, max, median) for key numeric variables like income and lending.
+  
+    Checked for missing or null values in newly created age bins.
 
 6. Univariate Analysis
 
-  Count plots for categorical variables such as Income Band, Loyalty Classification, Nationality, Fee Structure, etc.
-
-  Observed distribution patterns and identified dominant categories (e.g., majority in Low income band).
+    Count plots for categorical variables such as Income Band, Loyalty Classification, Nationality, Fee Structure, etc.
+  
+    Observed distribution patterns and identified dominant categories (e.g., majority in Low income band).
 
 7. Bivariate Analysis
 
-  Count plots segmented by Gender and Amount of Credit Cards to explore differences in customer profiles.
-
-  Analyzed how banking relationships and nationality vary across gender and credit card ownership.
+    Count plots segmented by Gender and Amount of Credit Cards to explore differences in customer profiles.
+  
+    Analyzed how banking relationships and nationality vary across gender and credit card ownership.
 
 8. Visualizing Lending and Income Patterns
 
-  Bar chart showing median business lending amount by age range band.
-
-  Bar chart illustrating income range spread within each age group.
+    Bar chart showing median business lending amount by age range band.
+  
+    Bar chart illustrating income range spread within each age group.
 
 9. Correlation & Relationship Exploration (Visual)
 
-  Explored relationships between income, savings, lending, and categorical customer features via grouped statistics and charts.
+    Explored relationships between income, savings, lending, and categorical customer features via grouped statistics and charts.
 
 10. Distribution Visualization
 
-  Histograms and count plots for all major categorical variables to understand their frequency distributions.
+    Histograms and count plots for all major categorical variables to understand their frequency distributions.
 
 
 
