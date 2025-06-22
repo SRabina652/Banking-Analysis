@@ -86,8 +86,10 @@ KPIs Displayed:
 - Overall Lending Amount
 
 - Total Superannuation Savings
+  
+- Total Deposits
 
-Total Deposits
+  <img width="601" alt="Image" src="https://github.com/user-attachments/assets/9d3fd15b-300c-4d2d-bb04-f0303a2c0601" />
 
 2️. Lending Analysis
   Detailed view of the bank’s lending products, with dynamic filtering options:
@@ -114,6 +116,8 @@ Visualizations:
 
 - Bank Loans by Occupation
 
+  <img width="600" alt="Image" src="https://github.com/user-attachments/assets/c2fc16cc-5308-481e-a4a6-fc318352d8e6" />
+
 3. Deposit Analysis
   Focuses on deposit products, savings behavior, and account balances:
 
@@ -137,6 +141,8 @@ Visualizations:
 
 - Checking Deposits by Banking Relationship
 
+  <img width="602" alt="Image" src="https://github.com/user-attachments/assets/a8dc2a6c-8e27-4025-b9a7-949dbc2f6660" />
+
 4️. Summary Page
   Combines lending and deposit insights for a holistic customer overview:
 
@@ -155,6 +161,8 @@ Visualizations:
 - Total Properties Owned by Customers
 
 - Customer Count by Loyalty Classification
+  
+  <img width="599" alt="Image" src="https://github.com/user-attachments/assets/e150a1c0-a0f6-4e34-a98d-a2133febc372" />
 
 ## EDA Insights
 1. The chart "Median Business Lending by Age" indicates that, despite the different age groups, the median business loans 
