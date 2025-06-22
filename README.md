@@ -1,7 +1,7 @@
 
 # Banking System
 
-#### Dashbord link - https://app.powerbi.com/groups/me/reports/63b83fb5-e5ea-4d32-aa65-2693b8714d0f/7f65feb570312a45ea04?experience=power-bi
+#### Dashbord link - https://app.powerbi.com/groups/me/reports/63b83fb5-e5ea-4d32-aa65-2693b8714d0f/fbd80b86030db5f3f077?experience=power-bi
 
 In today's highly competitive financial environment, understanding customer behavior and financial health is critical for banks to improve services, reduce risk, and increase profitability. This project aims to analyze banking data to identify key factors that influence customer product holdings, credit usage, income levels, and overall engagement with the bank.
 
