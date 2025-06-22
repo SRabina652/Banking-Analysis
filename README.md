@@ -204,3 +204,13 @@ Risk Management: The skewness suggests that while most accounts are relatively l
 Financial Planning: Insights from these distributions can inform financial planning and product development, ensuring that offerings align with the needs of diverse customer segments.
 
 Overall, recognizing the right skewness in these financial variables not only aids in understanding customer behavior but also provides actionable information for better service delivery, risk assessment, and strategic planning in the financial sector.
+
+
+### Tools & Technologies Used
+    Database: MySQL
+
+    Languages: Python
+
+    BI Tool: Power BI
+
+    Notebook: Jupyter
